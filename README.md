@@ -1,24 +1,16 @@
-# README
+# Re-do Tutorial about Devise 7 publish at DigitalOcean
+The initial publish may be found here:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-user-authentication-with-devise-in-a-rails-7-application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am not suggest to you to do the ocean tutorial in develop or production mode.
+Try a new project first, and take your own conclusion.
 
-Things you may want to cover:
+### What I did?
 
-* Ruby version
+- Step 1 — Creating a New Rails Application
 
-* System dependencies
+    You can follow. It works fine.
+- Step 2 — Creating a Landing Page
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    Don't do like their tutorial, because it is not in the best practice of rails.
+    Create a controller using `$ rails g controller Home` or `$ rails generate scaffold Home`
