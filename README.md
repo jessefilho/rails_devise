@@ -27,3 +27,15 @@ Try a new project first, and take your own conclusion.
     Late, make sure that you have a clean migration using
     `$ rails db:drop db:create db:migrate`
     use SQLite for seek of simplicity
+- Step 5 — Linking Authentication to the Landing Page
+
+    Don't explore anything until the end.
+    If you did the sign in, don't touch, because you we get lost
+    in the follow instructions.
+    
+    After copy, the buttons, refresh your page then sign out the session
+    
+    if you click on sign in button you will see that devise
+    did not the linking between pages.
+
+    
