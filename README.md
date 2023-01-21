@@ -38,4 +38,5 @@ Try a new project first, and take your own conclusion.
     if you click on sign in button you will see that devise
     did not the linking between pages.
 
-    
+ 
+# Such tutorial does not works on DigitalOcean, And was created only to Generate traffic with how to install devise on Rails 7
